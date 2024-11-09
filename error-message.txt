@@ -1,0 +1,36 @@
+[2024-11-09 17:43:41] ERROR 17:43:41: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:41] ERROR Require stack:
+[2024-11-09 17:43:41] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js
+[2024-11-09 17:43:44] ERROR 17:43:44: Could not load vsce-sign module Cannot find module 'node-ovsx-sign'
+[2024-11-09 17:43:44] ERROR Require stack:
+[2024-11-09 17:43:44] ERROR - /ide/out/server-main.js

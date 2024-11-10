@@ -79,8 +79,9 @@ main {
 }
 /*Footer color*/
 footer {
-    background-color: orange;
+    background-color: #ffffff;
 }
+
 /*Media query: tablets and larger 768px and up*/
 @media screen and (min-width: 768px) {
     /*Header*/

@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
+
 <body>
     <!--Header-->
     <Header>
@@ -42,7 +43,39 @@
     </Header>
 
     <!--Main Content-->
-    <main>Sign Up</main>
+    <main>
+        <section id="singup">
+            <form id="signup-form" method="post" action="https://formdump.codeinstitute.net">
+                <h2><i class="fa-solid fa-heart-pulse"></i> LET'S GET YOU SIGNED UP!</h2>
+                <br>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last-name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email">Email Address</label>
+                <input type="email" name="email-address" id="email-address" class="text-input" required>
+                <br>
+                <div class="radio-buttons">
+                <div>
+                <input id="road" name="running preference" value="road" type="radio" required checked>
+                <label for="road">Road</label>
+                </div>
+                <div>
+                <input id="trail" name="running preference" value="trail" type="radio" required>
+                <label for="trail">Trail</label>
+                </div>
+                <div>
+                <input id="both" name="running preference" value="both" type="radio" required>
+                <label for="both">Both</label>
+                </div>
+                </div>
+                <input type="submit" value="Let's Run!" class="join-button">
+
+            </form>
+        </section>
+    </main>
 
     <!--Footer-->
     <footer>
@@ -52,18 +85,19 @@
             </li>
             <li><a href="https//wwww.twitter.com/" target="_blank" rel="noopener"
                     aria-label="Visit our X page (opens in a new tab)"><i class="fa-brands fa-x-twitter"></i></a>
-                </li>
+            </li>
             <li><a href="https//wwww.youtube.com/" target="_blank" rel="noopener"
-            aria-label="Visit our youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
+                    aria-label="Visit our youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
             </li>
             <li><a href="https//wwww.instagram.com/" target="_blank" rel="noopener"
-                aria-label="Visit our instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
+                    aria-label="Visit our instagram page (opens in a new tab)"><i
+                        class="fa-brands fa-instagram"></i></a>
             </li>
-            
-            
+
+
         </ul>
 
-    </footer> 
+    </footer>
     <!--Font awsome-->
     <script src="https://kit.fontawesome.com/9ccf2b9c0c.js" crossorigin="anonymous"></script>
 </body>

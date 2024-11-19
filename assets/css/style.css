@@ -209,18 +209,29 @@ main {
     color: #fafafa;
     margin-bottom: 20px;
 }
+
 .text-input {
     background: transparent;
-    color: #fafafa;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
+    color: #fafafa; 
     width: 100%;
-    line-height: 25px;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;   
+    padding: 0 5px;
 }
 .radio-buttons {
     display: flex;
     justify-content: space-between;
     width: 100%;
+}
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    background-color: #454b1b;
+    color: #fafafa;
+    font-size: 100%;
+    padding: 15, 32;
 }
 /* Footer */
 #social-networks {
